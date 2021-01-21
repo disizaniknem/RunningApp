@@ -1,4 +1,4 @@
-package com.androiddevs.runningappyt
+package com.disizaniknem.runningapp
 
 import androidx.appcompat.app.AppCompatActivity
 import android.os.Bundle
