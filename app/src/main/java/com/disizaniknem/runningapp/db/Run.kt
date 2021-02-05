@@ -15,6 +15,6 @@ data class Run(
 ) {
 
     @PrimaryKey(autoGenerate = true)
-    val id: Int? = null
+    var id: Int? = null
 
 }
